@@ -87,7 +87,7 @@ The project is deployed on **Render** and is accessible at:
 
 ### 2. Owner Registration
 
-- **Endpoint**: `POST /api/owner/register`
+- **Endpoint**: `POST /api/v1/owner`
 - **Request Body**:
   ```json
   {
